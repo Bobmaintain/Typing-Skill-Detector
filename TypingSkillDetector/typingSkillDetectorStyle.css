@@ -1,0 +1,57 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    background-color: blueviolet;
+}
+
+h1 {
+    color: #3a241d;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: -5px 1px 3px red;
+    margin-bottom: 50px;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.error {
+    background-color: lightcoral;
+    border: red;
+}
+
+#inputArea {
+    text-align: center;
+}
+
+#typed-value {
+    height: 20px;
+    font-size: 14pt;
+    padding: 5px;
+}
+
+#message {
+    color: #ff0000;
+}
+
+
+button {
+    color: #ffffff;
+    width: 200px;
+    background: #016f32;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
